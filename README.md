@@ -3,6 +3,8 @@
 - 🌱 I am currently majoring in Electrical Engineering with an emphasis in power systems and sustainability. 
 - 📫 My email to reach me is jlarios04@g.ucla.edu
 
+
+- I am aiming to post hardware projects here and some code for systems such as Arduino. 
 <!---
 ElectroShock04/ElectroShock04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
